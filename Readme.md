@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Александр Целковников](https://up.htmlacademy.ru/nodejs-2-individual/2/user/200777).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Виноградов](https://up.htmlacademy.ru/nodejs-2-individual/2/user/2696709).
 
 ---
 
